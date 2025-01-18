@@ -39,7 +39,7 @@ header#top-header {
 }
 
 .siteName a {
-  color: black;
+  color: whitesmoke;
   text-decoration: none;
   font-family: 'Lato', sans-serif;
 }
@@ -50,7 +50,7 @@ header#top-header {
 
 #tools a {
   text-decoration: none;
-  color: black;
+  color: whitesmoke;
   padding: 5px 10px;
   font-family: 'Lato', sans-serif;
 }
